@@ -1,2 +1,2 @@
-# wswp-ask-mate
-Web and SQL with Python / 1st TW week / Ask Mate project
+# Tic Tac Toe Game
+This is a simple python tic tac toe game. It is my first python projec. 
